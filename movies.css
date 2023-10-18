@@ -1,0 +1,14 @@
+#movies{
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr 4fr;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#input{
+    margin-left: 200px;
+    margin-bottom: 100px;
+    margin-top: 10px;
+    
+}

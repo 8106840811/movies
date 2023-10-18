@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+#parent{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 10px;
+    border: 2px solid gray;
+    margin-left: 600px;
+    margin-right: 600px;
+    border: 2px solid red;
+    border-radius: 5px;
+    
+
+}
+#buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
